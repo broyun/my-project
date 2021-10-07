@@ -12,4 +12,6 @@ data class TmdbResponse(
     val totalPages: Int?,
     @SerializedName("total_results")
     val totalResults: Int?
+    //네임 테스트
+    //추가햅ㅆ다
 )

@@ -49,4 +49,5 @@ val MoodiAppModule = module {
 
     //ViewModels
     viewModel { SearchViewModel(get()) }
+    //코루틴을 사용해보자!!!!!
 }
